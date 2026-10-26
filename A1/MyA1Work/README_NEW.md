@@ -54,9 +54,11 @@ For pedestrians, they use the trail most in the early morning and afternoon. I w
 Is there evidence people use the Burke-Gilman to *commute*, not just for fun? Compare **weekdays vs. weekends**, and maybe morning vs. evening. Define what a "commuting pattern" would look like in the data, then say whether you see it.
 
 **My Response for Q3:**
-A "commuting pattern" in the data would mean there is a consistent total count of pedestrians and cyclists seen throughout the weekdays, and the weekends serving as a larger/smaller count of people. This is because we should expect to see the same number of commuters on Monday through Friday, and a jump or decrease in that amount for leisure on the weekend.
+A "commuting pattern" in the data would mean the peak counts across the weekdays and weekends differs. This would make sense because commuting on a weekday falls under the morning and evening times where the peaks are, whereas recreation would mean people use the trail leisurely at a time where they are not commuting, on a weekend. 
 
-We can see there is a significant jump in bikers and pedestrians using the trail on Saturday and Sunday (with the peak of both being Sundays). From this data, we can assume the Burke-Gilman Trail is more likely to be used for recreation on weekends. However, there is a consistent pattern of roughly 15,000 pedestrians and 45,000 cyclists who use the trail on weekdays. This means there *is* a commuting pattern if we're finding close to the same number of people using the trail Monday through Friday.
+As we can see from the graph, there is a significant jump in cyclists using the trail on the weekend in general. Furthermore, the peak count of cyclists is at 8:00AM and 5:00PM on weekdays, but for Saturday and Sunday that peak is found at 12:00PM-1:00PM. 
+
+We can conclude from this data that the trail is definitely used for recreation on weekends where people have more availability (hence the high average count of cyclists), but also more freedom to choose when they want to use the trail, which is clearly in the afternoon rather than the morning or evening.
 
 
 
